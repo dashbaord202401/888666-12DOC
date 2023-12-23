@@ -10,4 +10,4 @@
 
 - Vote “Yay!”
 
-### Deployed Contract address: `0x01672F0Ea5cAc3737EbB3f36999812e0C87E8a46`
+### Deployed Contract address: `0xe122D25b860E5e3AB662624077927Cc7617f8b3F`
